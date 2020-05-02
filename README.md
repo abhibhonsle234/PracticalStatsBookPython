@@ -15,4 +15,6 @@ IMPORTANT NOTE: The scripts all assume that you have cloned the repository into 
 
 PSDS_PATH <- file.path('~', 'statistics-for-data-scientists')
 
+
 to point to the appropriate directory in all of the scripts.
+
